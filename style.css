@@ -1,0 +1,97 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #fafafa;
+  color: #333;
+}
+
+header {
+  background: #6a1b9a;
+  padding: 20px;
+  text-align: center;
+  color: white;
+}
+
+header input, header select {
+  padding: 10px;
+  margin: 10px;
+  border: none;
+  border-radius: 5px;
+}
+
+#recipe-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 15px;
+  padding: 20px;
+}
+
+.recipe-card {
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  overflow: hidden;
+  transition: transform 0.2s;
+  cursor: pointer;
+}
+
+.recipe-card:hover {
+  transform: scale(1.03);
+}
+
+.recipe-card img {
+  width: 100%;
+  height: 180px; /* keep this fixed */
+  object-fit: cover; /* this crops the image proportionally */
+}
+
+.recipe-card h3 {
+  margin: 10px;
+  font-size: 18px;
+  font-weight: 600;
+  text-align: center;
+  color: #444;
+}
+
+/* Modal Styles */
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 10;
+  left: 0; top: 0;
+  width: 100%; height: 100%;
+  background: rgba(0,0,0,0.7);
+  overflow: auto;
+}
+
+.modal-content {
+  background: white;
+  margin: 5% auto;
+  padding: 20px;
+  border-radius: 10px;
+  width: 90%;          /* fallback for small screens */
+  max-width: 600px;    /* prevents stretching on large monitors */
+}
+
+#closeModal {
+  position: absolute;
+  top: 15px;
+  right: 20px;
+  font-size: 28px;
+  font-weight: bold;
+  color: #6a1b9a;
+  cursor: pointer;
+  transition: 0.2s;
+}
+#closeModal:hover {
+  color: red;
+}
+
+.modal-content img {
+  width: 100%;
+  height: auto; /* keeps full width, height adjusts automatically */
+  max-height: 300px; /* optional limit */
+  object-fit: contain; /* prevents stretching */
+}
+
