@@ -4,7 +4,7 @@
     "name": "Idli",
     "description": "Soak 1 cup rice and ¼ cup urad dal separately for 4–6 hours. Drain and grind the urad dal into a smooth, fluffy paste; grind the rice into a slightly coarse paste. Mix both pastes, add salt, and ferment overnight until airy and bubbly. Grease idli molds lightly. Pour the batter into the molds and steam in an idli steamer or pressure cooker (without the whistle) for 10–15 minutes, or until a toothpick comes out clean. Let them cool slightly, remove carefully, and serve hot with coconut chutney or sambar.",
     "ingredients": ["Rice", "Urad dal", "Fenugreek seeds", "Water", "Salt"],
-    "image": "images/idli.jpg",
+    "image": "idli.jpg",
     "region": "Tamil Nadu"
   },
   {
@@ -12,7 +12,7 @@
     "name": "Dosa",
     "description": "Soak 1 cup rice and ¼ cup urad dal separately for 4–6 hours. Add ½ tsp fenugreek seeds to the urad dal while soaking, if desired. Drain and grind the urad dal into a smooth, fluffy paste; grind the rice into a slightly coarse paste. Mix both pastes together in a bowl, add salt, and ferment overnight in a warm place until airy and bubbly. Heat a non-stick or cast-iron pan over medium heat. Pour a ladleful of batter onto the center and spread it in a thin circular motion. Drizzle a few drops of oil or ghee around the edges. Cook for 2–3 minutes until the edges lift and the bottom turns golden brown. Flip if you prefer crispy on both sides. Serve hot with coconut chutney, sambar, or potato filling.",
     "ingredients": ["Rice", "Urad dal", "Water", "Salt"],
-    "image": "images/dosa.jpg",
+    "image": "dosa.jpg",
     "region": "Karnataka"
   },
   {
@@ -20,7 +20,7 @@
     "name": "Sambar",
     "description": "Cook ½ cup toor dal (pigeon peas) in a pressure cooker or pot until soft and mushy. In a pan, heat 1–2 tsp oil and add ½ tsp mustard seeds, curry leaves, and 1–2 dried red chilies. Sauté 1 chopped onion, then add chopped vegetables like carrots, beans, drumsticks, and pumpkin; cook for a few minutes. Add the cooked dal, 1–2 cups water, 1–2 tsp tamarind paste (or soaked tamarind extract), and salt. Stir in 1–2 tsp sambar powder and simmer for 10–15 minutes until the vegetables are tender and the flavors blend. Serve hot with steamed rice, idli, or dosa.",
     "ingredients": ["Toor dal", "Tamarind", "Mixed vegetables", "Sambar powder", "Mustard seeds", "Curry leaves"],
-    "image": "images/sambar.jpg",
+    "image": "sambar.jpg",
     "region": "Tamil Nadu"
   },
   {
@@ -28,7 +28,7 @@
     "name": "Rasam",
     "description": "Soak a small lemon-sized piece of tamarind in warm water and extract the juice. Chop 1–2 tomatoes and boil them with the tamarind juice, ¼ tsp turmeric, salt, and 2–3 cups of water. Prepare a spice mix by roasting 1 tsp cumin seeds, ½ tsp black pepper, and 1–2 dried red chilies, then grind to a fine powder. Add this spice mix to the boiling tamarind-tomato mixture and simmer for 5–7 minutes. In a small pan, heat 1 tsp ghee or oil, add ½ tsp mustard seeds, curry leaves, and a dried red chili; pour this tempering into the rasam. Serve hot over steamed rice or as a soup.",
     "ingredients": ["Tamarind", "Tomatoes", "Rasam powder", "Coriander leaves", "Curry leaves", "Mustard seeds"],
-    "image": "images/rasam.jpg",
+    "image": "rasam.jpg",
     "region": "Andhra Pradesh"
   },
   {
@@ -36,7 +36,7 @@
     "name": "Vada",
     "description": "Soak 1 cup urad dal for 4–6 hours. Drain and grind into a thick, smooth batter. Add salt, chopped green chilies, ginger, curry leaves, and a little black pepper. Mix well. Heat oil in a deep pan to 350–365°F (175–185°C). Shape the batter into small doughnut-like rounds with a hole in the center. Carefully drop them into the hot oil and fry in batches, turning once, until golden brown and crispy. Remove with a slotted spoon and drain on paper towels. Serve hot with coconut chutney or sambar.",
     "ingredients": ["Urad dal", "Green chilies", "Curry leaves", "Onion", "Salt"],
-    "image": "images/vada.jpg",
+    "image": "vada.jpg",
     "region": "Tamil Nadu"
   },
   {
@@ -44,7 +44,7 @@
     "name": "Pongal",
     "description": "Roast ½ cup moong dal lightly in a pan. Cook the dal with ½ cup rice in water until soft and mushy, using a pressure cooker or pot. In a separate pan, heat ghee and add 1 tsp black pepper, 1 tsp cumin seeds, 1-inch piece of ginger (chopped), curry leaves, and cashew nuts; fry until fragrant and golden. Pour this tempering over the cooked rice and dal mixture, add salt, and mix well. Serve hot with coconut chutney, sambar, or a drizzle of ghee.",
     "ingredients": ["Rice", "Moong dal", "Black pepper", "Cumin seeds", "Ginger", "Cashews", "Curry leaves"],
-    "image": "images/pongal.jpg",
+    "image": "pongal.jpg",
     "region": "Tamil Nadu"
   },
   {
@@ -52,7 +52,7 @@
     "name": "Bisi Bele Bath",
     "description": "Cook ½ cup toor dal (pigeon peas) until soft and mushy. Wash and soak ½ cup rice for 20–30 minutes. Soak a small lemon-sized piece of tamarind in warm water and extract the juice. In a pan, heat 1–2 tsp oil, add ½ tsp mustard seeds, curry leaves, and 1–2 dried red chilies. Sauté chopped vegetables like carrots, beans, and drumsticks for a few minutes. Add the cooked dal, soaked rice, tamarind extract, 1–2 tsp Bisi Bele Bath powder (or homemade spice mix), and 2–3 cups water. Simmer on medium heat until the rice is cooked and the mixture thickens. Garnish with fried cashew nuts and a drizzle of ghee. Serve hot with papad or chutney.",
     "ingredients": ["Rice", "Toor dal", "Mixed vegetables", "Tamarind", "Bisi Bele Bath powder", "Ghee"],
-    "image": "images/bisi.jpg",
+    "image": "bisi.jpg",
     "region": "Karnataka"
   },
   {
@@ -60,7 +60,7 @@
     "name": "Avial",
     "description": "Chop 2–3 cups of mixed vegetables like carrots, beans, drumsticks, and raw banana into long, uniform pieces. Grind 1 cup fresh coconut with 1–2 green chilies to make a coarse paste. Cook the vegetables in ½–1 cup water until just tender. Add the coconut paste and simmer gently. Stir in ½ cup yogurt (curd), season with salt and curry leaves, and drizzle 1 tsp coconut oil. Mix gently and serve hot as a side dish with steamed rice.",
     "ingredients": ["Mixed vegetables", "Curd", "Coconut", "Curry leaves", "Coconut oil"],
-    "image": "images/avial.jpg",
+    "image": "avial.jpg",
     "region": "Kerala"
   },
   {
@@ -68,7 +68,7 @@
     "name": "Chettinad Chicken Curry",
     "description": "Marinate the chicken pieces with turmeric and salt for 15–20 minutes. Dry-roast coriander seeds, cumin seeds, fennel seeds, black pepper, and dried red chilies until fragrant. Grind the roasted spices with fresh coconut, ginger, and garlic into a smooth paste. Heat oil in a pan and sauté chopped onions until golden brown. Add the ground spice paste and cook, stirring, until the oil separates from the masala. Add the marinated chicken and mix well to coat with the masala. Pour in water or chicken stock to cover the chicken partially. Simmer on medium-low heat for 20–25 minutes until the chicken is cooked through and tender. Add curry leaves and chopped coriander leaves, stir gently, and remove from heat. Serve hot with steamed rice, roti, or parotta.",
     "ingredients": ["Chicken", "Onion", "Tomatoes", "Chettinad masala", "Curry leaves", "Coconut milk"],
-    "image": "images/chick.jpg",
+    "image": "chick.jpg",
     "region": "Tamil Nadu"
   },
   {
@@ -76,7 +76,8 @@
     "name": "Hyderabadi Biryani",
     "description": "Marinate the chicken or mutton with yogurt, ginger-garlic paste, red chili powder, turmeric, garam masala, salt, and chopped mint and coriander leaves. Cover and refrigerate for at least 2 hours, preferably overnight. Wash the basmati rice thoroughly and soak for 30 minutes. Parboil the rice in water with whole spices—cinnamon, cloves, cardamom, and bay leaf—until it’s 70% cooked. Drain and set aside. Heat ghee or oil in a heavy-bottomed pan. Layer half of the parboiled rice at the bottom, then spread the marinated meat evenly over it. Sprinkle fried onions, saffron milk, and fresh herbs over the meat. Add the remaining rice on top and cover tightly with a lid or foil. Cook on low heat (dum method) for 25–30 minutes, allowing the flavors to meld and the meat to cook completely. Remove from heat and let it rest for 5–10 minutes before gently fluffing the rice. Serve hot with raita or mirchi ka salan.",
     "ingredients": ["Basmati rice", "Chicken or Mutton", "Yogurt", "Biryani masala", "Fried onions", "Mint leaves"],
-    "image": "images/bir.jpg",
+    "image": "bir.jpg",
     "region": "Telangana"
   }
 ]
+
